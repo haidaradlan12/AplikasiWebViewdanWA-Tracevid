@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">967503480414</string>
+  <string name="google_storage_bucket" translatable="false">tracevid-1867b.appspot.com</string>
+  <string name="project_id" translatable="false">tracevid-1867b</string>
+  <string name="google_api_key" translatable="false">AIzaSyDPJLeVwGiyfb68y4Op6Ugkb-qH73osQXs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDPJLeVwGiyfb68y4Op6Ugkb-qH73osQXs</string>
+  <string name="google_app_id" translatable="false">1:967503480414:android:3b6f8449e99931d381d6cf</string>
+  <string name="default_web_client_id" translatable="false">967503480414-a3l710gdc6tnvfq49i8ed3q7g47kfr78.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "967503480414",
+    "project_id": "tracevid-1867b",
+    "storage_bucket": "tracevid-1867b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967503480414:android:3b6f8449e99931d381d6cf",
+        "android_client_info": {
+          "package_name": "com.ARtyCreative.TraceVid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967503480414-a3l710gdc6tnvfq49i8ed3q7g47kfr78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJLeVwGiyfb68y4Op6Ugkb-qH73osQXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967503480414-a3l710gdc6tnvfq49i8ed3q7g47kfr78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967503480414-0cenbb9m81pbss4f0lt1goqsmm5ef5uh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ARtyCreative.TraceVid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
